@@ -1,0 +1,19 @@
+
+{
+  "name" : "Add Shadows to Artboards",
+  "identifier" : "com.ajayans.sketchplugins.add-artboard-shadows",
+  "version" : "1.0",
+  "description" : "Add fake shadows to artboards, so they look better when exported as a flow.",
+  "authorEmail" : "ajayan.subramanian@gmail.com",
+  "author" : "Ajayan Subramanian",
+
+  "commands" : [
+    {
+      "script" : "AddArtboardBackgrounds.js",
+      "handler" : "addShadows",
+      "shortcut" : "",
+      "name" : "Add Shadows to All Artboards",
+      "identifier" : "com.ajayans.sketchplugins.add-artboard-shadows.add"
+    }
+  ]
+}
