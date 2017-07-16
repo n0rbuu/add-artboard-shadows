@@ -10,7 +10,7 @@
   "commands" : [
     {
       "script" : "AddArtboardBackgrounds.js",
-      "handler" : "addShadows",
+      "handler" : "onRun",
       "shortcut" : "",
       "name" : "Add Shadows to All Artboards",
       "identifier" : "com.ajayans.sketchplugins.add-artboard-shadows.add"
