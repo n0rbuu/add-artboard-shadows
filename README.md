@@ -26,3 +26,9 @@ A sketch plugin that makes your user flows look better, by adding more contrast 
 
 Here is a video demonstrating its use.
 ![Alt text](https://vimeo.com/225790786)
+
+# Credits
+This was my first plugin. Given the lack of documentation, I was lucky to find medium articles/ useful code snippets by these designers:
+- [Mike Mariano](https://github.com/marianomike) 
+- [Aby Nimbalkar](https://github.com/abynim)
+- [Andrey Shakhmin](https://github.com/turbobabr)
