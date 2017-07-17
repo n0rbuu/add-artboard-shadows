@@ -7,10 +7,10 @@ A sketch plugin that makes your user flows look better, by adding more contrast 
 - Sketch doesn't retain the artboard shadows that you see on the editor, when you export them.
 - As a result your artboards are sometimes hard to distinguish from the background.
 
-Before using the plugin:
+**Before using the plugin:**
 
 ![Alt text](screenshots/exported-slice-before.png)
 
-After using the plugin:
+**After using the plugin:**
 
 ![Alt text](screenshots/exported-slice-after.png)
