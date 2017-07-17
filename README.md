@@ -8,11 +8,11 @@ A sketch plugin that makes your user flows look better, by adding more contrast 
 - As a result your artboards are sometimes hard to distinguish from the background.
 
 
-**Before using the plugin:**
+** Exported slice before using the plugin**
 
 ![Alt text](screenshots/exported-slice-before.png)
 
-**After using the plugin:**
+**Exported slice after**
 
 ![Alt text](screenshots/exported-slice-after.png)
 
