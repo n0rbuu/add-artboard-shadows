@@ -15,3 +15,13 @@ A sketch plugin that makes your user flows look better, by adding more contrast 
 **After using the plugin:**
 
 ![Alt text](screenshots/exported-slice-after.png)
+
+# Installation
+- Download the zip file from this project.
+- Double click the .sketchplugin file.
+
+# Usage
+- On any page that has artboards of any size, run the plugin.
+- You can find a group titled 'Artboard Shadows' beneath all the layers on the page.
+
+Here is a video demonstrating its use.
