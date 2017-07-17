@@ -25,7 +25,7 @@ A sketch plugin that makes your user flows look better, by adding more contrast 
 - You can find a group titled 'Artboard Shadows' beneath all the layers on the page.
 
 Here is a video demonstrating its use.
-![Alt text](https://vimeo.com/225790786)
+![Alt text](screenshots/usage-clip.gif)
 
 # Credits
 This was my first plugin. Given the lack of documentation, I was lucky to find medium articles/ useful code snippets by these designers:
