@@ -47,4 +47,3 @@ function createRect(group, artboard) {
 
 	shapeGroup.setIsLocked(true);
 }
-
