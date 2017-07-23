@@ -3,7 +3,7 @@
   "name" : "Add Shadows to Artboards",
   "identifier" : "com.ajayans.sketchplugins.add-artboard-shadows",
   "version" : "1.0",
-  "description" : "Add fake shadows to artboards, so they look better when exported as a flow.",
+  "description" : "Makes artboards easy to distinguish from the background, when exported in user flows",
   "authorEmail" : "ajayan.subramanian@gmail.com",
   "author" : "Ajayan Subramanian",
 
