@@ -29,7 +29,7 @@ Here is a video demonstrating its use.
 ![Alt text](screenshots/usage-clip.gif)
 
 # Credits
-This was my first plugin. Given the lack of documentation, I was lucky to find medium articles and useful code snippets by these designers:
+This was my first plugin. Given the lack of documentation, I was lucky to find Medium articles and useful code snippets by these designers:
 - [Mike Mariano](https://github.com/marianomike) 
 - [Aby Nimbalkar](https://github.com/abynim)
 - [Andrey Shakhmin](https://github.com/turbobabr)
