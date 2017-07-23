@@ -1,9 +1,10 @@
 # add-artboard-shadows
+<a href="http://bit.ly/SketchRunnerWebsite">
+      <img src="http://bit.ly/RunnerBadgeWhite" width = 180 align = "right">
+    </a>
 A sketch plugin that makes your user flows look better, by adding more contrast between the artboards and background.
 
-<a href="http://bit.ly/SketchRunnerWebsite">
-      <img src="http://bit.ly/RunnerBadgeWhite" width = 180>
-    </a>
+
 
 # Why this plugin?
 - We sometimes need to share user flows as static images or docs (as opposed to prototypes).
