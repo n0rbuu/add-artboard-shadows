@@ -1,4 +1,4 @@
-# add-artboard-shadows
+## Add Shadows to Artboards
 <a href="http://bit.ly/SketchRunnerWebsite">
       <img src="http://bit.ly/RunnerBadgeBlue" width = 150 align = "right">
     </a>
