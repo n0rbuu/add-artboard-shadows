@@ -23,6 +23,7 @@ A sketch plugin that makes your user flows look better, by adding more contrast 
 
 ## Installation
 **With Sketch Runner**
+
 Go to the `install` command and search for `Add Shadows to Artboards`. Runner allows you to manage plugins and do much more to speed up your workflow in Sketch. [Download Runner here](http://www.sketchrunner.com).
 
 ![Sketch Runner screenshot](screenshots/sketch-runner.png)
