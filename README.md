@@ -30,11 +30,11 @@ Go to the `install` command and search for `Add Shadows to Artboards`. Runner al
 
 **Alternative**
 - Download the zip file from this project.
-- Double click the .sketchplugin file.
+- Double click the `.sketchplugin` file.
 
 ## Usage
 - On any page that has artboards of any size, run the plugin.
-- You can find a group titled 'Artboard Shadows' beneath all the layers on the page.
+- You can find a group titled `Artboard Shadows` beneath all the layers on the page.
 
 Here is a video demonstrating its use.
 
